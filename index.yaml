@@ -3,7 +3,17 @@ entries:
   first-app:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-02-22T19:18:59.147133323Z"
+    created: "2025-02-22T23:32:17.625056399Z"
+    description: A Helm chart for Kubernetes
+    digest: 0746bf8dd163c7d4437e39e7f6c85a0e97cfd2edeaaf091662d99f3a53d38909
+    name: first-app
+    type: application
+    urls:
+    - https://andrewbulah.github.io/helm/helm-releases/first-app-0.2.0.tgz
+    version: 0.2.0
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2025-02-22T23:32:17.62467487Z"
     description: A Helm chart for Kubernetes
     digest: 2901af197a363c3033179759e1542d71c5f6a189b8ed6ff9086ba0fbe06921e2
     name: first-app
@@ -11,4 +21,4 @@ entries:
     urls:
     - https://andrewbulah.github.io/helm/helm-releases/first-app-0.1.0.tgz
     version: 0.1.0
-generated: "2025-02-22T19:18:59.146552473Z"
+generated: "2025-02-22T23:32:17.624222314Z"
